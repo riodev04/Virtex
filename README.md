@@ -4,7 +4,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 [![Youtube](https://img.shields.io/badge/Youtube-Rio--Dev-red?style=for-the-badge&logo=youtube)](https://youtube.com/@riodev)
 
-Download Virtex Via Termux.
+Download Virtex
 
 ## Tips
 If you have finished downloading the Virtex file, you can move the file using the mv command.
