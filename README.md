@@ -29,6 +29,7 @@ sudo apt-get install git
 sudo apt-get install python
 git clone https://github.com/riodev04/Virtex
 cd Virtex
+pip install -r requirements.txt
 python Virtex.py
 ```
 ### Installation for Termux
@@ -40,6 +41,7 @@ pkg install git
 pkg install python
 git clone https://github.com/riodev04/Virtex
 cd Virtex
+pip install -r requirements.txt
 python Virtex.py
 ```
 
@@ -52,6 +54,7 @@ If everything is installed, please open one of the CMD, Windows PowerShell, or G
 ```bash
 git clone https://github.com/riodev04/Virtex
 cd Virtex
+pip install -r requirements.txt
 python Virtex.py
 ```
 
