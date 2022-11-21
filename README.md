@@ -6,6 +6,19 @@
 
 Download Virtex Via Termux.
 
+## Tips
+If you have finished downloading the Virtex file, you can move the file using the mv command.
+
+```bash
+mv virtex.txt <directory>
+```
+
+Example :
+
+```bash
+mv v12.txt project/attack
+```
+
 ## Installation
 
 ### Installation for Linux
@@ -40,19 +53,6 @@ If everything is installed, please open one of the CMD, Windows PowerShell, or G
 git clone https://github.com/riodev04/Virtex
 cd Virtex
 python Virtex.py
-```
-
-## Tips
-If you have finished downloading the Virtex file, you can move the file using the mv command.
-
-```bash
-mv virtex.txt <directory>
-```
-
-Example :
-
-```bash
-mv v12.txt project/attack
 ```
 
 ## Youtube Channels
