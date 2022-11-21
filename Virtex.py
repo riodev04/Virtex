@@ -14,14 +14,14 @@ import concurrent.futures
 try:
   __import__('requests')
 except ModuleNotFoundError:
-  os.system ('pip3 install requests')
+  os.system ('pip install requests')
 finally:
   import requests
 
 try:
   __import__('bs4')
 except ModuleNotFoundError:
-  os.system ("pip3 install bs4")
+  os.system ("pip install bs4")
 finally:
   from bs4 import BeautifulSoup as parser
 
