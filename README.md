@@ -1,3 +1,4 @@
+
 # Virtex
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -62,12 +63,6 @@ python Virtex.py
 Don't forget to subscribe, so that it can be an encouragement, the YouTube channel : [**Rio Dev**](https://www.youtube.com/@riodev)
 
 ## Donate
-Dana : 085838762728
-
-Gopay : 085838762728
-
-Pulsa Indosat : 085838762728
-
 Saweria : https://saweria.co/riodev
 
 # Contributors
