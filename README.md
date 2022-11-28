@@ -23,7 +23,7 @@ mv v12.txt project/attack
 
 ### Installation for Linux
 ```bash
-sudo apt-get upgrade
+sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install git
 sudo apt-get install python
@@ -35,7 +35,7 @@ python Virtex.py
 ### Installation for Termux
 ```bash
 termux-setup-storage
-pkg upgrade
+pkg update
 pkg upgrade
 pkg install git
 pkg install python
